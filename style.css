@@ -1,0 +1,15 @@
+body{
+	background-image: url("blur-calorie-intake-calories-1927500.jpg");
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+h1 {
+	float: right;
+	color: white;
+	font-size: 4rem;
+	font-family: Arial;
+}
